@@ -10,8 +10,8 @@ The folder XXX contains some scripts that I have created with the help of AI cod
 The Wiki refers to some documents which were added to this folder.
 
 # Current role and academic background
-Since 2023, I am working as a senior bioinformatician as part of the National Bioinformatics Infrastructure Sweden (NBIS)[https://nbis.se/].
-My support role is integrated in the (Swedish cryo-EM facility)[https://www.scilifelab.se/units/cryo-em/], and together with colleague,
+Since 2023, I am working as a senior bioinformatician as part of the National Bioinformatics Infrastructure Sweden [NBIS](https://nbis.se/).
+My support role is integrated in the [Swedish cryo-EM facility](https://www.scilifelab.se/units/cryo-em/), and together with colleague,
 [Piotr Draczkowski](https://www.researchgate.net/profile/Piotr-Draczkowski), we support cryo-EM/ET users to process their datasets. 
 Furthermore, we are involved in teaching and user consulting (drop-ins). 
 My academic background is in cryo-EM, X-ray crystallography, protein biophysics and biochemistry. 
