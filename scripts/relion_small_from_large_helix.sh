@@ -1,0 +1,1 @@
+/nethome/timschu/software/py_scripts/relion_small_from_large_helix.sh
