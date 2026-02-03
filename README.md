@@ -16,4 +16,5 @@ My support role is integrated in the [Swedish cryo-EM facility](https://www.scil
 [Piotr Draczkowski](https://www.researchgate.net/profile/Piotr-Draczkowski), we support cryo-EM/ET users to process their datasets. 
 Furthermore, we are involved in teaching and user consulting (drop-ins). 
 My academic background is in cryo-EM, X-ray crystallography, protein biophysics and biochemistry. 
-You can follow and/or contact me also via [ResearchGate](https://www.researchgate.net/profile/Tim-Schulte-4) or [LinkedIn](https://www.linkedin.com/in/tim-schulte-14405677). 
+
+**You can follow and/or contact me also via [ResearchGate](https://www.researchgate.net/profile/Tim-Schulte-4) or [LinkedIn](https://www.linkedin.com/in/tim-schulte-14405677).** 
