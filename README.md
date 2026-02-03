@@ -4,7 +4,8 @@ The purpose of this project is to gather information about resources, software p
 Go to the [Wiki](https://github.com/derpaule/cryoem_support_wiki/wiki) to access that information. 
 
 # Scripts
-The folder XXX contains some scripts that I have created with the help of AI coding bots.
+The folder [scripts](https://github.com/derpaule/cryoem_support_wiki/tree/main/scripts) contains some scripts that I have created with the help of AI coding bots.
+The scripts are referred to in the Wiki.
 
 # Documents
 The Wiki refers to some documents which were added to this folder.
