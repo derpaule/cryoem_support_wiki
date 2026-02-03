@@ -1,7 +1,7 @@
 # Cryo-EM(/ET) data processing support_wiki
 The purpose of this project is to gather information about resources, software pacakges and other scripts that I have found useful in my data processing support role.
 
-Go to the [Wiki](https://github.com/derpaule/cryoem_support_wiki/wiki) to access that information. 
+**Go to the [Wiki](https://github.com/derpaule/cryoem_support_wiki/wiki) to access that information.** 
 
 # Scripts
 The folder [scripts](https://github.com/derpaule/cryoem_support_wiki/tree/main/scripts) contains some scripts that I have created with the help of AI coding bots.
