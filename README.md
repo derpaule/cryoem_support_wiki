@@ -7,8 +7,8 @@ The purpose of this project is to gather information about resources, software p
 The folder [scripts](https://github.com/derpaule/cryoem_support_wiki/tree/main/scripts) contains some scripts that I have created with the help of AI coding bots.
 The scripts are referred to in the Wiki.
 
-# Documents
-The Wiki refers to some documents which were added to this folder.
+# images
+few [images](https://github.com/derpaule/cryoem_support_wiki/tree/main/images) used in the Wiki.
 
 # Current role and academic background
 Since 2023, I am working as a senior bioinformatician as part of the National Bioinformatics Infrastructure Sweden [NBIS](https://nbis.se/).
